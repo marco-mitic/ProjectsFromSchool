@@ -1,0 +1,2 @@
+This is a python script (utilizing scapy) that proves the route from the local machine to a given host address.
+This is a UDP based program that identifies and prints IP addresses of all intermediary machines.
